@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{696B5ACD-CD93-04B7-0B5D-CAC89B21F687}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5e5cbb82-cfeb-46c2-8cef-20d63f7393dc" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuManager/WeaponBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Behaviour/Death.cs" />
+      <File FileName="Assets/Scripts/Behaviour/AbstractBehaviour.cs" />
+      <File FileName="Assets/Scripts/Input/InputManager.cs" />
+      <File FileName="Assets/Scripts/Input/InputState.cs" />
+      <File FileName="Assets/Scripts/Collision/CollisionState.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Walk.cs" />
+      <File FileName="Assets/Scripts/Behaviour/FaceDirection.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Jump.cs" />
+      <File FileName="Assets/Scripts/Managers/PlayerManager.cs" Line="54" Column="6" />
+      <File FileName="Assets/Scripts/Behaviour/LongJump.cs" />
+      <File FileName="Assets/Scripts/Camera/Camera.cs" />
+      <File FileName="Assets/Scripts/Enemies/MoveForward.cs" />
+      <File FileName="Assets/Scripts/Enemies/LookForward.cs" />
+      <File FileName="Assets/Scripts/Collision/Collactable.cs" />
+      <File FileName="Assets/Scripts/Items/Rune.cs" />
+      <File FileName="Assets/Scripts/Behaviour/Equip.cs" />
+      <File FileName="Assets/Scripts/Behaviour/FireProjectile.cs" />
+      <File FileName="Assets/Scripts/Items/Fireball.cs" />
+      <File FileName="Assets/Scripts/MenuManager/LevelSelector.cs" Line="29" Column="41" />
+      <File FileName="Assets/Scripts/MenuManager/MainMenu.cs" />
+      <File FileName="Assets/Scripts/Items/Key.cs" Line="10" Column="30" />
+      <File FileName="Assets/Scripts/MenuManager/PauseMenu.cs" />
+      <File FileName="Assets/Scripts/MenuManager/DeathMenu.cs" />
+      <File FileName="Assets/Scripts/MenuManager/WinMenu.cs" Line="31" Column="29" />
+      <File FileName="Assets/Scripts/MenuManager/WeaponBar.cs" Line="13" Column="64" />
+      <File FileName="Assets/Scripts/Enemies/PlayerDetected.cs" />
+      <File FileName="Assets/Scripts/Managers/EnemyManager.cs" />
+      <File FileName="Assets/Scripts/Enemies/EnemieFireProjectile.cs" />
+      <File FileName="Assets/Scripts/Enemies/EnemyBullet.cs" />
+      <File FileName="Assets/Scripts/Enemies/EnemyDeath.cs" />
+      <File FileName="Assets/Scripts/Sound/PlayerSoundEffect.cs" />
+      <File FileName="Assets/Scripts/Sound/EnemySoundEffects.cs" />
+      <File FileName="Assets/Scripts/Sound/ButtonFX.cs" />
+      <File FileName="Assets/Scripts/Enemies/Obstacle.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeAfterCourse2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Behaviour" expanded="True" />
+                <Node name="Camera" expanded="True" />
+                <Node name="Collision" expanded="True" />
+                <Node name="Enemies" expanded="True" />
+                <Node name="Input" expanded="True" />
+                <Node name="Items" expanded="True" />
+                <Node name="Managers" expanded="True" />
+                <Node name="MenuManager" expanded="True">
+                  <Node name="WeaponBar.cs" selected="True" />
+                </Node>
+                <Node name="Sound" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
